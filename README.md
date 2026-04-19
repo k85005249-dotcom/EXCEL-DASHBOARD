@@ -17,6 +17,8 @@ Compare member vs normal customers
 Identify top-performing product lines
 
 Provide an interactive experience using slicers
+<img width="1838" height="662" alt="image" src="https://github.com/user-attachments/assets/634a5c52-f0be-43c0-9356-8ef8ca5ef1c7" />
+
 
 
 **📈 KPIs Displayed****
