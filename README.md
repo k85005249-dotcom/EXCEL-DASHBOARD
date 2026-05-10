@@ -10,7 +10,7 @@ The dashboard helps stakeholders quickly understand business performance and mak
 
 Track total sales, tax, and quantity
 
-Analyze payment methods used by customers
+Analyze payment method used by customers
 
 Compare member vs normal customers
 
